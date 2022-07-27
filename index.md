@@ -4,7 +4,7 @@ Here are some of my best Data Science Projects. I have explored various machine-
 
 ***
 
-[Examining the effect of environmental factors and weather on demand of Bike rentals](https://github.com/suvo-gh/Bike-Rental-Demand/blob/main/Bike_Rental_Demand.ipynb)
+[Examining the effect of environmental factors and weather on demand of Bike rentals](https://github.com/rlalramengi/LinearRegressionProject1)
 
 <img src="images/seoul-bikes.jpeg?raw=true"/>
 
@@ -12,9 +12,9 @@ Here are some of my best Data Science Projects. I have explored various machine-
 
 **Project Objective:** Predicting Bike rental demand on basis of weather and seasonal factors in advance to take appropiate measures which finally will result in bike utilization.
 
-**Quantifiable result:** We could predict the Bike rental demand resulting in [**94%** accuracy](https://github.com/suvo-gh/Bike-Rental-Demand/blob/main/Bike_Rental_Demand.ipynb).
+**Quantifiable result:** We could predict the Bike rental demand resulting in [**56%** accuracy](https://github.com/rlalramengi/LinearRegressionProject1).
 
-- Used Random Forest Regressor to predict the number of bikes rented in the city of Seoul
+- Used linear regression to predict the number of bikes rented in the city of Seoul
 - The data had quite a few categorical variables which were encoded for use in the model
 - Encoded categorical variables to numeric using Sklearn due to the presence of many string columns
 - Cross Validation for validating the training data and model fit.
@@ -37,9 +37,29 @@ Here are some of my best Data Science Projects. I have explored various machine-
 - Used Logistic regression classifier & optimized the accuracy by using the ROC curve
 - Explored a machine learning approach to medical diagnosis
 
+
+
 ***
 
-[Identifying given picture is a Cat or a Dog](https://github.com/suvo-gh/Cat_or_Dog_prediction/blob/main/CNN_Project%20(Image_Classification).ipynb)
+[Employee Compensation](https://github.com/rlalramengi/Employee_Compensation_K-means/blob/main/Kmeans_Clustering_Project.ipynb)
+
+<img src="images/EC.webp?raw=true"/>
+
+**Skills used:** Python, Pandas, Matplotlib, Cluster, Elbow
+
+**Project Objective:** The San Francisco Controller’s Office maintains a database of the salary and benefits, paid to City employees since fiscal year 2013. This data is summarized and presented on the Employee Compensation.. 
+
+**Quantifiable result:** We could Classify the type of tumor resulting in [**80%** accuracy using K-means algorithm](https://github.com/rlalramengi/Employee_Compensation_K-means/blob/main/Kmeans_Clustering_Project.ipynb).
+
+- Used K-Means algorythm to create cluster depending on the Dataset.
+- Used Elbow method to get the optimal number of cluster.
+- Explored a Unsupervised learning approach to create data group.
+
+
+
+***
+
+[Identifying given picture is a Cat or a Dog](https://github.com/rlalramengi/CNN_Image_classification)
 
 <img src="images/Dog-and-Cat.jpeg?raw=true"/>
 
@@ -47,7 +67,7 @@ Here are some of my best Data Science Projects. I have explored various machine-
 
 **Project Objective:** Prediction of whether a given image is a Cat or a Dog using Convolutional Neural Networks which may be further implemented as a feature in a bigger project.
 
-**Quantifiable result:** We could train the Convolutional Neural Network to attain a accuracy of [**80%** using **23** epochs](https://github.com/suvo-gh/Cat_or_Dog_prediction/blob/main/CNN_Project%20(Image_Classification).ipynb).
+**Quantifiable result:** We could train the Convolutional Neural Network to attain a accuracy of [**86%** using **25** epochs](https://github.com/rlalramengi/CNN_Image_classification).
 
 - Added multiple convolution and pooling layers
 - Training model on basis of given data
