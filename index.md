@@ -80,7 +80,7 @@ Here are some of my best Data Science Projects. I have explored various machine-
 
 <img src="images/handWritten.jpg?raw=true"/>
 
-**Skills used:** Python, Keras, Tensorflow
+**Skills used:** Python, Keras, Tensorflow, numpy
 
 **Project Objective:** Prediction of whether a given image is a Cat or a Dog using Convolutional Neural Networks which may be further implemented as a feature in a bigger project.
 
