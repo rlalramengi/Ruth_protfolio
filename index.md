@@ -74,11 +74,11 @@ Here are some of my best Data Science Projects. I have explored various machine-
 - Fitting the CNN to see if the provided image is dog or cat
 - Data Source: https://drive.google.com/drive/folders/15SG-chdqEwcrNAY39RTZJjvl-UwiZo_e?usp=sharing
 
-***
+**********************************************************************
 
 [Classigy handwritten digits](https://github.com/rlalramengi/Deep_Neural_Network_with_Keras_for_MNIST_handwritten_classification-and-recognition/blob/main/Hand_Written_Digits_Recognition.ipynb)
 
-<img src="images/HandWriting.jpg?raw=true"/>
+<img src="images/HandWritting.jpg?raw=true"/>
 
 **Skills used:** Python, Keras, Tensorflow
 
