@@ -43,7 +43,7 @@ Here are some of my best Data Science Projects. I have explored various machine-
 
 [Employee Compensation](https://github.com/rlalramengi/Employee_Compensation_K-means/blob/main/Kmeans_Clustering_Project.ipynb)
 
-<img src="images/compensation.jpg?raw=true"/>
+<img src="images/comp.jpg?raw=true"/>
 
 **Skills used:** Python, Pandas, Matplotlib, Cluster, Elbow
 
