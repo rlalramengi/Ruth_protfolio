@@ -63,11 +63,28 @@ Here are some of my best Data Science Projects. I have explored various machine-
 
 <img src="images/dogorcat.jpg?raw=true"/>
 
-**Skills used:** Python, Keras, Tensorflow
+**Skills used:** Python, Keras, Tensorflow, Matplotlib, numpy
 
 **Project Objective:** Prediction of whether a given image is a Cat or a Dog using Convolutional Neural Networks which may be further implemented as a feature in a bigger project.
 
 **Quantifiable result:** We could train the Convolutional Neural Network to attain a accuracy of [**86%** using **25** epochs](https://github.com/rlalramengi/CNN_Image_classification).
+
+- Added multiple convolution and pooling layers
+- Training model on basis of given data
+- Fitting the CNN to see if the provided image is dog or cat
+- Data Source: https://drive.google.com/drive/folders/15SG-chdqEwcrNAY39RTZJjvl-UwiZo_e?usp=sharing
+
+***
+
+[Classigy handwritten digits](https://github.com/rlalramengi/Deep_Neural_Network_with_Keras_for_MNIST_handwritten_classification-and-recognition/blob/main/Hand_Written_Digits_Recognition.ipynb)
+
+<img src="images/HandWriting.jpg?raw=true"/>
+
+**Skills used:** Python, Keras, Tensorflow
+
+**Project Objective:** Prediction of whether a given image is a Cat or a Dog using Convolutional Neural Networks which may be further implemented as a feature in a bigger project.
+
+**Quantifiable result:** We could train the Convolutional Neural Network to attain a accuracy of [**86%** using **25** epochs](https://github.com/rlalramengi/Deep_Neural_Network_with_Keras_for_MNIST_handwritten_classification-and-recognition/blob/main/Hand_Written_Digits_Recognition.ipynb).
 
 - Added multiple convolution and pooling layers
 - Training model on basis of given data
