@@ -24,7 +24,7 @@ Here are some of my best Data Science Projects. I have explored various machine-
 
 [Diagnosis of breast cancer using a logistic classifier](https://github.com/suvo-gh/Orthopedic-Patients-Classification)
 
-<img src="images/breast-cancer.jpeg?raw=true"/>
+<img src="images/cancer.jpeg?raw=true"/>
 
 **Skills used:** Python, Pandas, SKlearn, Matplotlib
 
@@ -43,7 +43,7 @@ Here are some of my best Data Science Projects. I have explored various machine-
 
 [Employee Compensation](https://github.com/rlalramengi/Employee_Compensation_K-means/blob/main/Kmeans_Clustering_Project.ipynb)
 
-<img src="images/EC.webp?raw=true"/>
+<img src="images/compensation.jpg?raw=true"/>
 
 **Skills used:** Python, Pandas, Matplotlib, Cluster, Elbow
 
