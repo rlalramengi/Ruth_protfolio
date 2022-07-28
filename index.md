@@ -78,7 +78,7 @@ Here are some of my best Data Science Projects. I have explored various machine-
 
 [Classigy handwritten digits](https://github.com/rlalramengi/Deep_Neural_Network_with_Keras_for_MNIST_handwritten_classification-and-recognition/blob/main/Hand_Written_Digits_Recognition.ipynb)
 
-<img src="images/HandWritting.jpg?raw=true"/>
+<img src="images/handWritten.jpg?raw=true"/>
 
 **Skills used:** Python, Keras, Tensorflow
 
