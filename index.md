@@ -61,7 +61,7 @@ Here are some of my best Data Science Projects. I have explored various machine-
 
 [Identifying given picture is a Cat or a Dog](https://github.com/rlalramengi/CNN_Image_classification)
 
-<img src="images/Dog-and-Cat.jpeg?raw=true"/>
+<img src="images/dorc.jpg?raw=true"/>
 
 **Skills used:** Python, Keras, Tensorflow
 
