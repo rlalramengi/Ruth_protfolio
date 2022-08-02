@@ -22,20 +22,20 @@ Here are some of my best Data Science Projects. I have explored various machine-
 
 ***
 
-[Diagnosis of breast cancer using a logistic classifier](https://github.com/suvo-gh/Orthopedic-Patients-Classification)
+[Talking Data Fraud Detection](https://github.com/rlalramengi/DT_And_Ensemble_Bagging_Boosting-Project)
 
-<img src="images/cancer.jpeg?raw=true"/>
+<img src="images/CF.jpg?raw=true"/>
 
 **Skills used:** Python, Pandas, SKlearn, Matplotlib
 
-**Project Objective:** Identification of the type of Breast Cancer for quicker diagnosis. This assists professionals in the medical field to take appropiate measures to accurately diagnose, treat and save lives. 
+**Project Objective:** In this problem, we will use the features associated with clicks, such as IP address, Operating system, device type ETC. To predict the probability of a click being fraud.
 
-**Quantifiable result:** We could Classify the type of tumor resulting in [**80%** accuracy using K-means algorithm](https://github.com/suvo-gh/Orthopedic-Patients-Classification).
+**Quantifiable result:** We could Classify whether a given click resulted in a download or not. The accuracy of XGBoostClassifier is [**99%**](https://github.com/rlalramengi/DT_And_Ensemble_Bagging_Boosting-Project). And the Bagging Classifier accuracy is [**99%**](https://github.com/rlalramengi/DT_And_Ensemble_Bagging_Boosting-Project).
 
-- Used logistic regression to identify a tumour as malignant or benign based on various attributes
-- Classified tumors as benign or malignant by studying patterns in measured attributes of those tumors
-- Used Logistic regression classifier & optimized the accuracy by using the ROC curve
-- Explored a machine learning approach to medical diagnosis
+- Used Ensemble technique to classify fraud clicks.
+- Compared predictive performance by fitting a BaggingClassifier model to the data.
+- Selected best model based on train and test performance.
+- Explored Ensemble technique.
 
 
 
