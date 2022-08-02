@@ -80,13 +80,13 @@ Here are some of my best Data Science Projects. I have explored various machine-
 
 <img src="images/handWritten.jpg?raw=true"/>
 
-**Skills used:** Python, Keras, Tensorflow, numpy
+**Skills used:** Python, Keras, Tensorflow
 
-**Project Objective:** Prediction of whether a given image is a Cat or a Dog using Convolutional Neural Networks which may be further implemented as a feature in a bigger project.
+**Project Objective:** MNIST is a dataset with 70,000 of hand written digits.Here I have predicted the mnist digits by using convolution neural network.
 
-**Quantifiable result:** We could train the Convolutional Neural Network to attain a accuracy of [**86%** using **25** epochs](https://github.com/rlalramengi/Deep_Neural_Network_with_Keras_for_MNIST_handwritten_classification-and-recognition/blob/main/Hand_Written_Digits_Recognition.ipynb).
+**Quantifiable result:** We could train the Convolutional Neural Network to attain a accuracy of [**99%** using **10** epochs](https://github.com/rlalramengi/Deep_Neural_Network_with_Keras_for_MNIST_handwritten_classification-and-recognition/blob/main/Hand_Written_Digits_Recognition.ipynb).
 
 - Added multiple convolution and pooling layers
 - Training model on basis of given data
-- Image classification
-- Data Source: https://drive.google.com/drive/folders/15SG-chdqEwcrNAY39RTZJjvl-UwiZo_e?usp=sharing
+- DIGIT classification
+- Data Source: MNIST
