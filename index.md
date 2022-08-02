@@ -1,10 +1,10 @@
-# Data Science Portfolio
+# Ruth's Data Science Portfolio
 
 Here are some of my best Data Science Projects. I have explored various machine-learning algorithms for different datasets. Feel free to contact me to learn more about my experience working with these projects.
 
 ***
 
-[Examining the effect of environmental factors and weather on demand of Bike rentals](https://github.com/rlalramengi/LinearRegressionProject1)
+[Rented Biak Count Prediction](https://github.com/rlalramengi/LinearRegressionProject1)
 
 <img src="images/bikk.jpg?raw=true"/>
 
@@ -59,7 +59,7 @@ Here are some of my best Data Science Projects. I have explored various machine-
 
 ***
 
-[Identifying given picture is a Cat or a Dog](https://github.com/rlalramengi/CNN_Image_classification)
+[Identify Cat And Dog Image](https://github.com/rlalramengi/CNN_Image_classification)
 
 <img src="images/dogorcat.jpg?raw=true"/>
 
@@ -76,7 +76,7 @@ Here are some of my best Data Science Projects. I have explored various machine-
 
 *********************************************
 
-[Classifying handwritten digits](https://github.com/rlalramengi/Deep_Neural_Network_with_Keras_for_MNIST_handwritten_classification-and-recognition/blob/main/Hand_Written_Digits_Recognition.ipynb)
+[Hand Written Digits Recognition](https://github.com/rlalramengi/Deep_Neural_Network_with_Keras_for_MNIST_handwritten_classification-and-recognition/blob/main/Hand_Written_Digits_Recognition.ipynb)
 
 <img src="images/handWritten.jpg?raw=true"/>
 
