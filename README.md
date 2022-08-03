@@ -1,4 +1,4 @@
-Website Address: [Ruth Portfolio](https://rlalramengi.github.io/my_protfolio/)
+Website Address: [Ruth Portfolio](https://rlalramengi.github.io/Ruth_protfolio/)
 
 - Data Science students' Portfolio Template
 
